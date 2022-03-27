@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess-sentence-game/static/css/main.6a7809d0.css",
+    "main.js": "/guess-sentence-game/static/js/main.c1502ddc.js",
+    "static/js/787.3516b24f.chunk.js": "/guess-sentence-game/static/js/787.3516b24f.chunk.js",
+    "index.html": "/guess-sentence-game/index.html",
+    "main.6a7809d0.css.map": "/guess-sentence-game/static/css/main.6a7809d0.css.map",
+    "main.c1502ddc.js.map": "/guess-sentence-game/static/js/main.c1502ddc.js.map",
+    "787.3516b24f.chunk.js.map": "/guess-sentence-game/static/js/787.3516b24f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a7809d0.css",
+    "static/js/main.c1502ddc.js"
+  ]
+}
