@@ -1,0 +1,17 @@
+.row {
+  display: flex;
+  margin: 2px;
+  justify-content: space-between;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+}
+.button-section {
+  justify-content: center;
+}
+hr {
+  height: 0px !important;
+  margin-top: 0px !important;
+  margin-bottom: 8px !important;
+}

@@ -1,0 +1,10 @@
+.next-button {
+  width: 15% !important;
+  border-radius: 0px !important;
+  border: none !important;
+  margin-top: 5px !important;
+}
+.next-button:focus {
+  border-color: none !important;
+  box-shadow: none !important;
+}

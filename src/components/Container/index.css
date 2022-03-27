@@ -1,0 +1,13 @@
+.container {
+  background-color: white;
+  width: 75% !important;
+  overflow: scroll;
+  align-items: center;
+  border-radius: 10px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  align-content: center;
+}
+p {
+  font-size: 18px;
+}

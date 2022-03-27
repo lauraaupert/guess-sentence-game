@@ -1,0 +1,15 @@
+.input {
+  border: none;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  line-height: 70px;
+  font-size: 18px;
+}
+.input:focus-visible {
+  outline: none;
+}
+.block {
+  width: 100%;
+  height: 100%;
+}
